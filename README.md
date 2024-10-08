@@ -1,8 +1,6 @@
-# MARGINAL-software
+# What is it? 
 
-# What it does? 
-
-MARGINAL is a software that includes a machine learning model to support variant classification in BRCA1 and BRCA2 genes based on ACMG-AMP guidelines.
+A machine learning model to support variant classification in BRCA1 and BRCA2 genes based on ACMG-AMP guidelines.
 
 # Excel files
 
@@ -19,4 +17,4 @@ MARGINAL is a software that includes a machine learning model to support variant
 # Script files
 
 - MARGINAL_software_annotation.py: Annotation and feature extraction by MARGINAL software
-- machine_learning_model.py: This script creates the final machine learning model for variant classification
+- machine_learning_model.py: This script creates the final machine learning model for variant classification, as it is in the Marginal software.
